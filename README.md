@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Robert's GitHub stats](https://github-readme-stats.vercel.app/api?username=robertxluo&show_icons=true&theme=algolia&count_private=true)](https://github.com/robertxluo/)
+[![Robert's GitHub top langs](https://github-readme-stats.vercel.app/api/top-langs?username=robertxluo&show_icons=true&theme=algolia&count_private=true)](https://github.com/robertxluo/)
+
+
+
 <!--
 **robertxluo/robertxluo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
