@@ -3,11 +3,11 @@
 ###  I enjoy spreading positivity and love being in the business of making the world better through building quality software.
 
 
-<a href="javascript:;">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robertxluo&show_icons=true&theme=algolia" />
 </a>
 
-<a href="javascript:;">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=robertxluo&layout=compact&show_icons=true&theme=algolia&count_private=true&langs_count=8" />
 </a>
 
