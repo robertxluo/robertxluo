@@ -1,7 +1,4 @@
-## Hi, I'm Robert 👋
-
-###  I enjoy spreading positivity and love being in the business of making the world better through building quality software.
-
+## Hey there! I'm Robert <img src="wave.gif" width="30px">
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robertxluo&show_icons=true&theme=algolia" />
