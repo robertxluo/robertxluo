@@ -1,5 +1,7 @@
 ## Hey there! I'm Robert <img src="wave.gif" width="30px">
 
+I’m a software engineer in Los Angeles who loves building high-quality software and creating beautiful user interfaces. I specialize in building JavaScript and TypeScript web applications specializing in React and Next.js.
+
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robertxluo&show_icons=true&theme=algolia" />
 </a>
