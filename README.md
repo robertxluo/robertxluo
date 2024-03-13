@@ -1,6 +1,7 @@
 ## Hey there! I'm Robert <img src="wave.gif" width="30px">
 
-I’m a software engineer in Los Angeles who loves building high-quality software and creating beautiful user interfaces. I specialize in building JavaScript and TypeScript web applications specializing in React and Next.js.
+Based in Los Angeles, I'm a passionate software engineer dedicated to crafting high-quality software solutions with aesthetically pleasing user interfaces. My expertise lies in developing robust web applications using JavaScript and TypeScript, with a particular focus on leveraging the capabilities of React and Next.js to deliver outstanding digital experiences.
+
 <!--
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=robertxluo&show_icons=true&theme=algolia" />
